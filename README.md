@@ -1,2 +1,2 @@
 # certifications
-List of Certifications from a learning portal as an accimplishment
+List of Certifications from a learning portal as an accomplishment
